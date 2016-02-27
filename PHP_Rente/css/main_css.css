@@ -1,0 +1,20 @@
+label {
+    float: left;
+    clear: left;
+    width: 120px;
+}
+
+input {
+    display: block;
+}
+
+article{
+    width: 600px;
+}
+
+img {
+    float: right;
+    width: 500px;
+    position: relative;
+    bottom: 500px;
+}
